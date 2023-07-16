@@ -1,0 +1,96 @@
+const InternetDiDong2 = [
+  {
+    id: 1,
+    goicuoc: "Home Tiết Kiệm",
+    bangthong: "150Mbps",
+    noidung: "Truyền hình MyTV chuẩn + 15GB data chia sẻ thành viên các thành viên nhóm và 1000 phút nội mạng",
+    giacuoc: "239.000",
+  },
+  {
+    id: 1,
+    goicuoc: "Home Đỉnh 1",
+    bangthong: "200Mbps",
+    noidung:"Truyền hình MyTV nâng cao + Sim Vinaphone 2GB/ngày, 1000 phút nội mạng, 50 phút ngoại mạng",
+    giacuoc: "269.000",
+  },
+  {
+    id: 1,
+    goicuoc: "Home Đỉnh 2",
+    bangthong: "300Mbps",
+    noidung:"Truyền hình MyTV nâng cao + Sim Vinaphone 2GB/ngày, 1000 phút nội mạng, 50 phút ngoại mạng",
+    giacuoc: "319.000",
+  },
+  {
+    id: 1,
+    goicuoc: "Home Đỉnh 3",
+    bangthong: "300Mbps + 1 Mesh",
+    noidung:"Truyền hình MyTV nâng cao + Sim Vinaphone 2GB/ngày, 1000 phút nội mạng, 50 phút ngoại mạng",
+    giacuoc: "329.000",
+  },
+  {
+    id: 1,
+    goicuoc: "Home Kết Nối 1",
+    bangthong: "200Mbps",
+    noidung:"Truyền hình MyTV nâng cao + 30GB data chia sẻ thành viên nhóm + 1000 phút nội mạng và 50 phút ngoại mạng",
+    giacuoc: "289.000",
+  },
+  {
+    id: 1,
+    goicuoc: "Home Kết Nối 2",
+    bangthong: "300Mbps",
+    noidung:"Truyền hình MyTV nâng cao + 30GB data chia sẻ thành viên nhóm + 1000 phút nội mạng và 50 phút ngoại mạng",
+    giacuoc: "339.000",
+  },
+  {
+    id: 1,
+    goicuoc: "Home Kết Nối 3",
+    bangthong: "300Mbps + 1 Mesh",
+    noidung:"Truyền hình MyTV nâng cao + 30GB data chia sẻ thành viên nhóm + 1000 phút nội mạng và 50 phút ngoại mạng",
+    giacuoc: "349.000",
+  },
+  {
+    id: 1,
+    goicuoc: "Home Giải Trí 1",
+    bangthong: "200Mbps",
+    noidung:"Truyền hình MyTV nâng cao + 30GB data chia sẻ cho các thành viên nhóm + 1000 phút nội mạng",
+    giacuoc: "299.000",
+  },
+  {
+    id: 1,
+    goicuoc: "Home Giải Trí 2",
+    bangthong: "300Mbps",
+    noidung:"Truyền hình MyTV nâng cao + 30GB data chia sẻ cho các thành viên nhóm + 1000 phút nội mạng",
+    giacuoc: "349.000",
+  },
+  {
+    id: 1,
+    goicuoc: "Home Giải Trí 3",
+    bangthong: "300Mbps + 1 Mesh",
+    noidung:"Truyền hình MyTV nâng cao + 30GB data chia sẻ cho các thành viên nhóm + 1000 phút nội mạng",
+    giacuoc: "359.000",
+  },
+  {
+    id: 1,
+    goicuoc: "Home Thể Thao 1",
+    bangthong: "200Mbps",
+    noidung:"Truyền hình MyTV nâng cao có K+ và 30GB data chia sẻ cho các thành viên nhóm + 1000 phút nội mạng",
+    giacuoc: "383.000",
+  },
+  {
+    id: 1,
+    goicuoc: "Home Thể Thao 2",
+    bangthong: "300Mbps",
+    noidung:"Truyền hình MyTV nâng cao có K+ và 30GB data chia sẻ cho các thành viên nhóm + 1000 phút nội mạng",
+    giacuoc: "433.000",
+  },
+  {
+    id: 1,
+    goicuoc: "Home Thể Thao 3",
+    bangthong: "300Mbps + 1 Mesh",
+    noidung:"Truyền hình MyTV nâng cao có K+ và 30GB data chia sẻ cho các thành viên nhóm + 1000 phút nội mạng",
+    giacuoc: "443.000",
+  },
+];
+
+export default InternetDiDong2;
+
