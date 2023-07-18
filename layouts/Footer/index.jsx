@@ -11,11 +11,11 @@ function Footer() {
               Thông tin liên hệ
             </h3>
             <ul className="flex flex-col gap-2 text-sm md:text-lg ">
-              <li>Website bán hàng của NVKD: Ngô Trương Đại Phúc</li>
+              <li>Website bán hàng của NVKD: Trương Minh Tâm</li>
               <li>Phòng bán hàng: Khu vực Sài Gòn</li>
               <li>Địa chỉ 69 Ngô Tất Tố, phường 21, quận Bình Thạnh</li>
-              <li>Điện thoại liên hệ: 0888829119</li>
-              <li>Email: phucntd.hcm@vnpt.com</li>
+              <li>Điện thoại liên hệ: 0913999033</li>
+              <li>Email: minhtam.hcm@vnpt.com</li>
             </ul>
           </div>
 
@@ -56,7 +56,7 @@ function Footer() {
       </div>
 
       <div className="fixed bottom-12 right-10 z-50">
-        <Link href="https://zalo.me/0888829119" className="">
+        <Link href="https://zalo.me/0913999033" className="">
           <Image
             className="animate-bounce hover:opacity-70 transtion-all mb-4"
             src="/zl.png"
@@ -65,7 +65,7 @@ function Footer() {
             alt=""
           />
         </Link>
-        <Link href="tel:0888829119" className="">
+        <Link href="tel:0913999033" className="">
           <Image
             className="hover:opacity-70 transtion-all"
             src="/telephone.png"
