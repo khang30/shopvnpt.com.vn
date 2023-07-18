@@ -11,7 +11,7 @@ function Footer() {
               Thông tin liên hệ
             </h3>
             <ul className="flex flex-col gap-2 text-sm md:text-lg ">
-              <li>Website bán hàng của Nhân viên kinh doanh: Trương Minh Tâm</li>
+              <li>Website bán hàng của Nhân viên kinh doanh VNPT TP. Hồ Chí Minh: Trương Minh Tâm</li>
               <li>Phòng bán hàng: Khu vực Sài Gòn</li>
               <li>Địa chỉ: 121 Pasteur, Phường 6, Quận 3, TP. Hồ Chí Minh </li>
               <li>Điện thoại liên hệ: 0913999033</li>
