@@ -13,7 +13,7 @@ function Footer() {
             <ul className="flex flex-col gap-2 text-sm md:text-lg ">
               <li>Website bán hàng của NVKD: Trương Minh Tâm</li>
               <li>Phòng bán hàng: Khu vực Sài Gòn</li>
-              <li>Địa chỉ: 121 Pasteur, Phường 6, Quận 3, TP. Hồ Chí Minh</li>
+              <li>Địa chỉ: 121 Pasteur, Phường 6, Quận 3, TP. Hồ Chí Minh </li>
               <li>Điện thoại liên hệ: 0913999033</li>
               <li>Email: minhtam.hcm@vnpt.com</li>
             </ul>
