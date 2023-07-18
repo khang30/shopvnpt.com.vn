@@ -15,7 +15,7 @@ function LienHe() {
               <span className="block text-lg font-bold">
                 Website bán hàng của NVKD:{" "}
               </span>
-              <span className="text-text">Ngô Trương Đại Phúc</span>
+              <span className="text-text">Trương Minh Tâm</span>
             </div>
             <div>
               <span className="block text-lg font-bold">Phòng bán hàng:</span>
@@ -30,7 +30,7 @@ function LienHe() {
             <div>
               <span className="block text-lg font-bold">Liên hệ: </span>
               <span className="text-text">
-                Hotline: 0888829119 <br /> Gmail: phucntd.hcm@vnpt.com
+                Hotline: 0913999033 <br /> Gmail: phucntd.hcm@vnpt.com
               </span>
             </div>
             <iframe
