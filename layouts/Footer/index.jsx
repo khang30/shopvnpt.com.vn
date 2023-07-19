@@ -45,7 +45,7 @@ function Footer() {
 
           <div>
             <Image
-              src="/logo-vnpt13.jpg"
+              src="/logo-vnpt.jpg"
               alt="logo"
               width={130}
               height={33}
