@@ -34,7 +34,7 @@ function LienHe() {
               </span>
             </div>
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2378256395837!2d106.70907197490799!3d10.79308838935664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528b209d28f4f%3A0x78fab096ed849269!2zNjkgTmcuIFThuqV0IFThu5EsIFBoxrDhu51uZyAyMSwgQsOsbmggVGjhuqFuaCwgVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1684072046472!5m2!1svi!2s"
+              src="https://goo.gl/maps/wyYmLTf8S7vh7o72A"
               width="full"
               height="500"
               style={{ border: 0 }}
