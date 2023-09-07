@@ -13,7 +13,7 @@ function LienHe() {
           <div className="flex flex-col gap-5 pt-10">
             <div>
               <span className="block text-lg font-bold">
-                Website PGD Phòng bán hàng:{" "}
+                Website PGD Kinh doanh:{" "}
               </span>
               <span className="text-text">Trương Minh Tâm</span>
             </div>
