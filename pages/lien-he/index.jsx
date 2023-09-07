@@ -30,7 +30,7 @@ function LienHe() {
             <div>
               <span className="block text-lg font-bold">Liên hệ: </span>
               <span className="text-text">
-                Hotline: 0913999033 <br /> Mail: minhtam.hcm.hcm@vnpt.com
+                Hotline: 0913999033 <br /> Mail: minhtam.hcm@vnpt.com
               </span>
             </div>
             <iframe
