@@ -13,18 +13,18 @@ function LienHe() {
           <div className="flex flex-col gap-5 pt-10">
             <div>
               <span className="block text-lg font-bold">
-                Website bán hàng của NVKD:{" "}
+                Website PGD bán hàng:{" "}
               </span>
               <span className="text-text">Trương Minh Tâm</span>
             </div>
             <div>
               <span className="block text-lg font-bold">Phòng bán hàng:</span>
-              <span className="text-text">Khu vực Sài Gòn</span>
+              <span className="text-text">Khu vực Chợ Lớn</span>
             </div>
             <div>
               <span className="block text-lg font-bold">Địa chỉ:</span>
               <span className="text-text">
-                69 Ngô Tất Tố, phường 21, quận Bình Thạnh, thành phố Hồ Chí Minh
+                Số 2 Hùng Vương, Phường 1, Quận 10, thành phố Hồ Chí Minh
               </span>
             </div>
             <div>
