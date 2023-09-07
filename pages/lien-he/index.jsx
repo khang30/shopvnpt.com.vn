@@ -19,7 +19,7 @@ function LienHe() {
             </div>
             <div>
               <span className="block text-lg font-bold">Phòng bán hàng:</span>
-              <span className="text-text">Khu vực Chợ Lớn</span>
+              <span className="text-text">Khu vực Chợ Lớn VNPT HCM</span>
             </div>
             <div>
               <span className="block text-lg font-bold">Địa chỉ:</span>
