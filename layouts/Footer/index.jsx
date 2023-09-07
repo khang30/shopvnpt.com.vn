@@ -15,7 +15,7 @@ function Footer() {
               <li>Phòng bán hàng: Khu vực Chợ Lớn VNPT HCM</li>
               <li>Địa chỉ: Số 2 Hùng Vương, Phường 1, Quận 10, TP. Hồ Chí Minh </li>
               <li>Điện thoại liên hệ: 0913999033</li>
-              <li>Email: minhtam.hcm@vnpt.com</li>
+              <li>Email: minhtam.hcm@vnpt.vn</li>
             </ul>
           </div>
 
