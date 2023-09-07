@@ -11,7 +11,7 @@ function Footer() {
               Thông tin liên hệ
             </h3>
             <ul className="flex flex-col gap-2 text-sm md:text-lg ">
-              <li>Website PGD Phòng bán hàng Chợ Lớn VNPT HCM: Trương Minh Tâm</li>
+              <li>Website PGD PBH Chợ Lớn VNPT HCM: Trương Minh Tâm</li>
               <li>Phòng bán hàng: Khu vực Chợ Lớn</li>
               <li>Địa chỉ: Số 2 Hùng Vương, Phường 1, Quận 10, TP. Hồ Chí Minh </li>
               <li>Điện thoại liên hệ: 0913999033</li>
