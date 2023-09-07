@@ -24,13 +24,13 @@ function LienHe() {
             <div>
               <span className="block text-lg font-bold">Địa chỉ:</span>
               <span className="text-text">
-                Số 2 Hùng Vương, Phường 1, Quận 10, thành phố Hồ Chí Minh
+                Số 2 Hùng Vương, Phường 1, Quận 10, Thành phố Hồ Chí Minh
               </span>
             </div>
             <div>
               <span className="block text-lg font-bold">Liên hệ: </span>
               <span className="text-text">
-                Hotline: 0913999033 <br /> Mail: minhtam.hcm@vnpt.vn
+                Hotline: 0913.999.033 <br /> Mail: minhtam.hcm@vnpt.vn
               </span>
             </div>
             <iframe
