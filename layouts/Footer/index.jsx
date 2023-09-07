@@ -13,7 +13,7 @@ function Footer() {
             <ul className="flex flex-col gap-2 text-sm md:text-lg ">
               <li>Website PGD Kinh doanh PBH: Trương Minh Tâm</li>
               <li>Phòng bán hàng: Khu vực Chợ Lớn VNPT HCM</li>
-              <li>Địa chỉ: Số 2 Hùng Vương, Phường 1, Quận 10, TP. Hồ Chí Minh </li>
+              <li>Địa chỉ: Số 2 Hùng Vương, Phường 1, Quận 10, TP. HCM </li>
               <li>Điện thoại liên hệ: 0913999033</li>
               <li>Email: minhtam.hcm@vnpt.vn</li>
             </ul>
