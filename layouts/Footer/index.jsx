@@ -11,9 +11,9 @@ function Footer() {
               Thông tin liên hệ
             </h3>
             <ul className="flex flex-col gap-2 text-sm md:text-lg ">
-              <li>Website bán hàng của NVKD VNPT TP.HCM: Trương Minh Tâm</li>
-              <li>Phòng bán hàng: Khu vực Sài Gòn</li>
-              <li>Địa chỉ: 121 Pasteur, Phường 6, Quận 3, TP. Hồ Chí Minh </li>
+              <li>Website PGD Phòng bán hàng Chợ Lớn VNPT HCM: Trương Minh Tâm</li>
+              <li>Phòng bán hàng: Khu vực Chợ Lớn</li>
+              <li>Địa chỉ: Số 2 Hùng Vương, Phường 1, Quận 10, TP. Hồ Chí Minh </li>
               <li>Điện thoại liên hệ: 0913999033</li>
               <li>Email: minhtam.hcm@vnpt.com</li>
             </ul>
