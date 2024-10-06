@@ -13,24 +13,24 @@ function LienHe() {
           <div className="flex flex-col gap-5 pt-10">
             <div>
               <span className="block text-lg font-bold">
-                Website PGD Kinh doanh:{" "}
+                Website CV Kinh doanh:{" "}
               </span>
-              <span className="text-text">Trương Minh Tâm</span>
+              <span className="text-text">Lê Thanh Lâm</span>
             </div>
             <div>
-              <span className="block text-lg font-bold">Phòng bán hàng:</span>
-              <span className="text-text">Khu vực Chợ Lớn VNPT HCM</span>
+              <span className="block text-lg font-bold">Đơn vị:</span>
+              <span className="text-text">Trung Tâm Viễn thông Hóc Môn - Quận 12  VNPT HCM</span>
             </div>
             <div>
               <span className="block text-lg font-bold">Địa chỉ:</span>
               <span className="text-text">
-                Số 2 Hùng Vương, Phường 1, Quận 10, Thành phố Hồ Chí Minh
+                Số 291 Tô Ký, Phường Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh
               </span>
             </div>
             <div>
               <span className="block text-lg font-bold">Liên hệ: </span>
               <span className="text-text">
-                Hotline: 0913.999.033 <br /> Mail: minhtam.hcm@vnpt.vn
+                Hotline: 0919.085.373 <br /> Mail: lamlt.hcm@vnpt.vn
               </span>
             </div>
             <iframe
