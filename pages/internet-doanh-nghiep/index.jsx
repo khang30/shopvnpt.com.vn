@@ -16,7 +16,7 @@ function DiDong() {
         <div className="rounded-xl text-right p-0 md:p-0 lg:p-0">
             <h2 className="text-lg md:text-xl lg:text-2xl ">
             <ul className=" py-2 md:py-4 md:p-4 border-main font-family:Arial gap-2 text-justify">
-            <li>&emsp; Năm 2023 VNPT tiếp tục đẩy mạnh và phát triển mang đến cho bạn các gói cước Internet tốc độ cao với giá ưu đãi nhất. Với tốc độ truy cập nhanh chóng, ổn định và tính năng tiện ích, các gói cước Internet VNPT năm 2023 hứa hẹn mang lại sự thuận tiện và hài lòng cho khách hàng. Dưới đây là bảng giá mới nhất:</li>
+            <li>&emsp; VNPT liên tục đẩy mạnh và phát triển mang đến cho bạn các gói cước Internet tốc độ cao với giá ưu đãi nhất. Với tốc độ truy cập nhanh chóng, ổn định và tính năng tiện ích, các gói cước Internet VNPT mới hứa hẹn mang lại sự thuận tiện và hài lòng cho khách hàng. Dưới đây là bảng giá mới nhất:</li>
               </ul>
           </h2>
           </div>
@@ -53,7 +53,7 @@ function DiDong() {
                     </ul>
 
                     <Link
-                        href="https://zalo.me/0913999033"
+                        href="https://zalo.me/0913887868"
                         target="_blank"
                         className="bg-main hover:bg-[#DC2323] hover:text-white  transition-all py-2 px-4 rounded-3xl mt-6 text-white uppercase bg-[#1E73BE] text-xs md:text-sm lg:text-lg"
                       >
