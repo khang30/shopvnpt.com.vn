@@ -15,26 +15,26 @@ function LienHe() {
               <span className="block text-lg font-bold">
                 Website CV Kinh doanh:{" "}
               </span>
-              <span className="text-text">Lê Thanh Lâm</span>
+              <span className="text-text">Nguyễn Hữu Tòng</span>
             </div>
             <div>
               <span className="block text-lg font-bold">Đơn vị:</span>
-              <span className="text-text">Trung Tâm Viễn thông Hóc Môn - Quận 12  VNPT HCM</span>
+              <span className="text-text">Trung Tâm Viễn thông Hóc Môn - Quận 12 VNPT HCM</span>
             </div>
             <div>
               <span className="block text-lg font-bold">Địa chỉ:</span>
               <span className="text-text">
-                Số 291 Tô Ký, Phường Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh
+                12 Bùi Công Trừng, Ấp 3, Xã Nhị Bình, Huyện Hóc Môn, TP HCM
               </span>
             </div>
             <div>
               <span className="block text-lg font-bold">Liên hệ: </span>
               <span className="text-text">
-                Hotline: 0919.085.373 <br /> Mail: lamlt.hcm@vnpt.vn
+                Hotline: 0913887868 <br /> Mail: 
               </span>
             </div>
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.6154964461007!2d106.6789866!3d10.764087700000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f1e617e7577%3A0xb47d54b07c95b307!2zMiDEkC4gSMO5bmcgVsawxqFuZywgUGjGsOG7nW5nIDEsIFF14bqtbiAxMCwgVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5o!5e0!3m2!1svi!2s!4v1694070360705!5m2!1svi!2s"
+              src="https://maps.app.goo.gl/GBanhcQnUQ4abeLu6"
               width="full"
               height="500"
               style={{ border: 0 }}
