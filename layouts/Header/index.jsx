@@ -37,7 +37,7 @@ function Header() {
             <Navbar.Collapse className="flex-row lg:flex gap-8 text-xs font-family: Arial">
               <Navbar.Link className="text-sm hover:bg-gray-100 text-gray-700 block px-4 py-2"
                 href="/">
-                Trang Chủ 111
+                Trang Chủ 
               </Navbar.Link>
               <Navbar.Link className="text-sm hover:bg-gray-100 text-gray-700 block px-4 py-2"
                 href="/internet-ca-nhan">
