@@ -36,14 +36,14 @@ function CaNhan() {
                         {/* <li>Miễn phí lắp đặt</li> */}
                         <li>Modem Wifi 2 băng tần</li>
                         <li>Dịch vụ an toàn GreenNet</li>
-                        <li>Lắp đặt nhanh trong 24h</li>
+                        <li>Lắp đặt nhanh trong ngày</li>
                         <li className="text-red-500 font-style: normal font-family:Arial text-xs md:text-sm lg:text-lg">
-                          Khuyến mãi 2 tháng cước
+                          Khuyến mãi lên đến 2 tháng cước
                         </li>
                       </ul>
 
                       <Link
-                        href="https://zalo.me/0913999033"
+                        href="https://zalo.me/0913887868"
                         target="_blank"
                         className="bg-main hover:bg-[#DC2323] hover:text-white  transition-all py-2 px-4 rounded-3xl mt-6 text-white uppercase bg-[#1E73BE] text-xs md:text-sm lg:text-lg"
                       >
