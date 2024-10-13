@@ -11,11 +11,13 @@ function Footer() {
               Thông tin liên hệ
             </h3>
             <ul className="flex flex-col gap-2 text-sm md:text-lg ">
-              <li>Website Kinh doanh: TTVT Hóc Môn - VNPT Tp.HCM</li>
+              <li>Website do nhân viên phụ trách:</li>
+              <li>Website bán hàng của NVKT: Nguyễn Hữu Tòng</li>
+              <li>Trung tâm Viễn thông Hóc Môn - VNPT Tp.HCM</li>
 {/*               <li>Phòng bán hàng: Khu vực Chợ Lớn VNPT HCM</li> */}
-              <li>Địa chỉ: Số 291 Tô Ký, Phường Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh </li>
-              <li>Điện thoại liên hệ: 0913.999.033</li>
-              <li>Email: minhtam.hcm@vnpt.vn</li>
+              <li>Địa chỉ: Số 12 Bùi Công Trừng, Ấp 3, Xã Nhị Bình, Huyện Hóc Môn, TP HCM </li>
+              <li>Điện thoại liên hệ: 091.388.78.68</li>
+              {/*              <li>Email: minhtam.hcm@vnpt.vn</li> */}
             </ul>
           </div>
 
@@ -56,7 +58,7 @@ function Footer() {
       </div>
 
       <div className="fixed bottom-12 right-10 z-50">
-        <Link href="https://zalo.me/0913999033" className="">
+        <Link href="https://zalo.me/0913887868" className="">
           <Image
             className="animate-bounce hover:opacity-70 transtion-all mb-4"
             src="/zl.png"
@@ -65,7 +67,7 @@ function Footer() {
             alt=""
           />
         </Link>
-        <Link href="tel:0913999033" className="">
+        <Link href="tel:0913887868" className="">
           <Image
             className="hover:opacity-70 transtion-all"
             src="/telephone.png"
